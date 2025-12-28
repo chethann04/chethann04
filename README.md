@@ -1,6 +1,5 @@
 # 💫 About Me:
-im a 2nd year student studying ISE in malnad college of engineering<br>have interest in solving DSA and building web applications<br>fluent in english, hindi, kannada<br>i have learnt python, C, java 
-
+Student & Aspiring Full-Stack Developer<br>DSA enthusaist<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chethann.hs) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chethan-hs-aa881033a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chethuc809@gmail.com) 
